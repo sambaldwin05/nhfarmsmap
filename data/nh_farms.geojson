@@ -1,0 +1,2221 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.4658,
+                    42.880187,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The 1780 Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Farm Profile on New Hampshire Farms Network (http://www.newhampshirefarms.net/farm-profiles/cheshire-county/1780-farm-chesterfield-nh.html)<br>Chesterfield, NH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.491501,
+                    44.951173,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Apple Haven Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "839 Piper Hill Rd<br>Stewartstown, NH 03576"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.55488,
+                    43.296317,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Apple Hill Farm",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.04309600000002,
+                    43.550057,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Autumn Harvest Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Johnson Ln, Grafton, NH 03240"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.2365102,
+                    42.97006289999999,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Back 40 Acre Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/rockingham-county/back-40-acre-farm-chester-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.160706,
+                    43.809519,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bailey Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "<img src=\"https://lh6.googleusercontent.com/proxy/uNX5aCmAhF4JCotlFEUUSI49uQf_Xq4FCWCq6Q0INVG5scPl3XKAW7DYV8TXN4ZCCLbEk76IPbHZPcZWNobYrXSanAi2O_JD-qW6cP4WioGLeLzOeicb2mM-xpzBN7Lu44MVpK6HBn3Lxg\" height=\"200\" width=\"auto\" /><br><br>Lyme, NH 03768",
+                "gx_media_links": "https://lh6.googleusercontent.com/proxy/uNX5aCmAhF4JCotlFEUUSI49uQf_Xq4FCWCq6Q0INVG5scPl3XKAW7DYV8TXN4ZCCLbEk76IPbHZPcZWNobYrXSanAi2O_JD-qW6cP4WioGLeLzOeicb2mM-xpzBN7Lu44MVpK6HBn3Lxg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.90457570000001,
+                    43.0352645,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Barker's Farm Fresh Vegetables",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-women/barkers-farm-stratham-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.786031,
+                    42.715622,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Barrett Hill Farm LLC",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.135603,
+                    43.355112,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bartlett's Blueberry Farm",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.470595,
+                    43.252496,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bartlett Farm Dairy",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/merrimack-county/bartlett-farm-dairy-concord-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.395694,
+                    43.571989,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Beans & Greens",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.120197,
+                    43.669878000000004,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bear Knoll Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Canaan, NH 03741"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.264562,
+                    43.367754,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Beaver Pond Farm",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.563064,
+                    42.985077,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Benedikt Dairy",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.63403700000003,
+                    43.201828,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Beech Hill Farm Stand & Ice Cream Barn",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/merrimack-county/beech-hill-farm-ice-cream-barn-contoocook-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.302506,
+                    43.182888,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Beryl Mountain View Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "South Acworth, NH 03607"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.1134424,
+                    43.5985669,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Blue Ox Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/grafton-county/blue-ox-farm-enfield-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.182038,
+                    43.609453,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bly Farm",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.460362,
+                    42.979862,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bo-Riggs Cattle Company",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "<img src=\"https://lh4.googleusercontent.com/proxy/ClyZd8XENdiC2QyZb01idXca5LOibZQYnMjBTIzHH4HMGWsu5CxLNYK7UhNOrcZ-iQN25t-KCYQahLHS24fNLTJhqyNP8e0SzWG4l1iEd7PEH5rM9YvUxOPFqCbNxmkiUILIrnmJB6wbig\" height=\"200\" width=\"auto\" /><br><br>Westmoreland, NH 03467",
+                "gx_media_links": "https://lh4.googleusercontent.com/proxy/ClyZd8XENdiC2QyZb01idXca5LOibZQYnMjBTIzHH4HMGWsu5CxLNYK7UhNOrcZ-iQN25t-KCYQahLHS24fNLTJhqyNP8e0SzWG4l1iEd7PEH5rM9YvUxOPFqCbNxmkiUILIrnmJB6wbig"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.581247,
+                    42.742981,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brookdale Fruit Farm Stand",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.41142909999996,
+                    43.1125501,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brookfield Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-women/brookfield-farm-walpole-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.60874460000002,
+                    43.3250003,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brookford Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/merrimack-county/brookford-farm-canterbury-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.107214,
+                    43.945665,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bunten Farmhouse Kitchen",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.068668,
+                    43.323054,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Butternut Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/strafford-county/butternut-farm-farmington-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.349389,
+                    43.071106,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Candia Vineyards",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.514568,
+                    43.386004,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Canterbury Aleworks",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/merrimack-county/canterbury-aleworks-canterbury-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.69231409999998,
+                    43.23682429999999,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Contoocook Creamery at Bohanan Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/merrimack-county/contoocook-creamery-at-bohanan-farm-contoocook-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.36591299999998,
+                    42.7834953,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Country Critters Farm\n",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/cheshire-county/country-critters-farm-winchester-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.29164739999999,
+                    43.3768397,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Crazy H Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-women/jenni-haynes-crazy-h-farm-claremont-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.085714,
+                    43.48977800000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cutting Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "<img src=\"https://lh4.googleusercontent.com/proxy/Z93N7mScd1LH8vNzr4k0PePp6sLf_pRnwJnf5zdJB7Y_MjEn-JmuPBzmBFhse1BAjcyOO5kZf_ctVwGsWkhef-7zmC3WtwEkiA5sd1l5IdycCiPg9ww-Zq2DvH3CXhoHNyUX4-KP86we7w\" height=\"200\" width=\"auto\" /><br><br>Springfield, NH 03284",
+                "gx_media_links": "https://lh4.googleusercontent.com/proxy/Z93N7mScd1LH8vNzr4k0PePp6sLf_pRnwJnf5zdJB7Y_MjEn-JmuPBzmBFhse1BAjcyOO5kZf_ctVwGsWkhef-7zmC3WtwEkiA5sd1l5IdycCiPg9ww-Zq2DvH3CXhoHNyUX4-KP86we7w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.933584,
+                    43.794206,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "D Acres of New Hampshire",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.832863,
+                    43.099828,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Darius Frink Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "<img src=\"https://lh3.googleusercontent.com/proxy/MvFlfJO1dPWqYzzK97foU19ZYPwnmjZlYiujr-yn9nhFs-dEbLTYo7eDqkK9REoB-b6LnCgr4ciHggcAJ2vhaQyedhFBI59sBKbN05suP3MSyZdRS1gcogNSSwY7eUSX7fv97G8-q57rrg\" height=\"200\" width=\"auto\" /><br><br>Newington, NH 03801",
+                "gx_media_links": "https://lh3.googleusercontent.com/proxy/MvFlfJO1dPWqYzzK97foU19ZYPwnmjZlYiujr-yn9nhFs-dEbLTYo7eDqkK9REoB-b6LnCgr4ciHggcAJ2vhaQyedhFBI59sBKbN05suP3MSyZdRS1gcogNSSwY7eUSX7fv97G8-q57rrg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.5768314,
+                    43.01376879999999,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Devriendt Farm Products",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/hillsborough-county/devriendt-farm-goffstown-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.616348,
+                    43.190622,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dimond Hill Farm",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.342735,
+                    43.590109,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Edgewater Farm LLC",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.889009,
+                    43.134757,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Emery Farm",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.280636,
+                    43.304108,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Evandale Farm, 424 Tilton Hill Rd",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Pittsfield, NH 03263"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.25285819999999,
+                    43.5437467,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Falling Tree Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "98 Croydon Turnpike, Meriden, NH 03781: http://newhampshirefarms.net/farm-profiles/sullivan-county/falling-tree-farm-meriden-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.2351165,
+                    42.9274614,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Field to Fork Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/rockingham-county/field-to-fork-chester-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.67573800000002,
+                    43.727664,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Glove Hollow Tree Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/grafton-county/glove-hollow-christmas-tree-farm-plymouth-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.689592,
+                    43.221053,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gould Hill Farm",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.73854,
+                    43.058818,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grant Family Pond View Farm & Maple Sugar House",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "<img src=\"https://lh6.googleusercontent.com/proxy/yNEyGxnscielbqVUhS8Fa_BmUImTeOSf-n5GOUkguzSJHUMbafiNNPfkHdWCqlvHfclCM9EviJu64CH4oH_6rjdgXL_sMTYElxSg3GuUqtUFFdm9GFFU8wQmvNN3_Tc5EH2VVlkGnmZg4w\" height=\"200\" width=\"auto\" /><br><br>Weare, NH 03281",
+                "gx_media_links": "https://lh6.googleusercontent.com/proxy/yNEyGxnscielbqVUhS8Fa_BmUImTeOSf-n5GOUkguzSJHUMbafiNNPfkHdWCqlvHfclCM9EviJu64CH4oH_6rjdgXL_sMTYElxSg3GuUqtUFFdm9GFFU8wQmvNN3_Tc5EH2VVlkGnmZg4w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.88779260000001,
+                    43.306453,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Greenhill Collective Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/greenhill-collective-farm-sutton-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.1112238,
+                    43.3533596,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Harding Hill Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/sullivan-county/harding-hill-farm-sunapee-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.362017,
+                    44.906239,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Haynes Homestead",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Colebrook, NH 03576"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.044092,
+                    43.508044,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hazzard Acres",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "<img src=\"https://lh5.googleusercontent.com/proxy/MqSLogXf5h5rCQD_SsGKh9jz8ykxNbLW6BK98bgy4jgAqB1b9i3kUwqjO09IDWHJBqEgXkezvEKTnyHvL4BffL-5waPHYzs9JBIL_ENFLtd80rLkEvFbKTgSEtoMWzPepsyivaEfgummhA\" height=\"200\" width=\"auto\" /><br><br>Springfield, NH 03284",
+                "gx_media_links": "https://lh5.googleusercontent.com/proxy/MqSLogXf5h5rCQD_SsGKh9jz8ykxNbLW6BK98bgy4jgAqB1b9i3kUwqjO09IDWHJBqEgXkezvEKTnyHvL4BffL-5waPHYzs9JBIL_ENFLtd80rLkEvFbKTgSEtoMWzPepsyivaEfgummhA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05405789999998,
+                    42.863936,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hidden Acres Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/rockingham-county/hidden-acres-farm-newton-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.427867,
+                    42.965001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hillside Springs Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "<img src=\"https://lh5.googleusercontent.com/proxy/SEIUBO2CKG_4u_KVapCS2y1tZubfrN9lsv5AhLKG3_s94222T4sFly8pJizZT4qqukdO1lxIXj9Kb68bMDOJD6hpUInL3RuI25T0d-gkBMBq2h_cNubDG3wwuxWJ9GXGTI1FC2xv078HIg\" height=\"200\" width=\"auto\" /><br><br>Westmoreland, NH 03467",
+                "gx_media_links": "https://lh5.googleusercontent.com/proxy/SEIUBO2CKG_4u_KVapCS2y1tZubfrN9lsv5AhLKG3_s94222T4sFly8pJizZT4qqukdO1lxIXj9Kb68bMDOJD6hpUInL3RuI25T0d-gkBMBq2h_cNubDG3wwuxWJ9GXGTI1FC2xv078HIg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.433488,
+                    43.074265,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Homestead Farms",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "<img src=\"https://lh3.googleusercontent.com/proxy/layUU7M_GYpQX92tciu5tCYo_XQsJVQVx_prAt3uEkgOksNZc5NkOgqFv2HtQqlTA18JsEghEHEIz9F8Qb1BoNdLjUk6jPKTBGtVdrvoc51Lu6O1TGrht3Z-AUU9gzM\" height=\"200\" width=\"auto\" /><br><br>http://www.newhampshirefarms.net/farm-profiles/cheshire-county/pete%E2%80%99s-farm-stand.html",
+                "gx_media_links": "https://lh3.googleusercontent.com/proxy/layUU7M_GYpQX92tciu5tCYo_XQsJVQVx_prAt3uEkgOksNZc5NkOgqFv2HtQqlTA18JsEghEHEIz9F8Qb1BoNdLjUk6jPKTBGtVdrvoc51Lu6O1TGrht3Z-AUU9gzM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.860837,
+                    43.5146026,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Huntoon Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/merrimack-county/huntoon-farm-danbury-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.87139780000003,
+                    43.3431937,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kearsarge Gore Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/kearsage-gore-farm-warner-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.36208999999997,
+                    43.2918556,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Inheritance Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/merrimack-county/inheritance-farm-chichester-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.53565170000002,
+                    43.5367894,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Krebs Farm\n",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/belknap-county/krebs-farm-sanbornton-n-h.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.57383670000002,
+                    44.5004644,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lancaster Floral Design and Garden Center",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/coos-county/lancaster-floral-design-garden-center-lancaster-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.896199,
+                    44.171643,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Landaff Creamery Lld",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.45139699999999,
+                    43.100731,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "LaValley Farms",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/merrimack-county/lavalley-farms-hooksett-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.734918,
+                    42.871168,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ledge Top Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/hillsborough-county/ledge-top-farm-wilton-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.56596389999999,
+                    43.165486,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lewis Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/merrimack-county/lewis-farm-concord-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.578695,
+                    43.742933,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Longhaul Farm",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.5779152,
+                    42.74372959999999,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lull Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/hillsborough-county/lull-farm-hollis-milford-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.31582019999996,
+                    43.4864358,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Many Summers Farm\n",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/sullivan-county/many-summers-farm-cornish-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.296035,
+                    43.208974,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "McClary Hill Farm",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.71366200000001,
+                    42.843232,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "McLeod Orchards",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.748126,
+                    44.29742600000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Meadowstone Farm",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.48424,
+                    43.340159,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Miles Smith Farm",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.493808,
+                    43.567938,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Minglewood Farm",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.87273,
+                    43.292076,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mountain Farm",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.95515200000001,
+                    43.373155,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Muster Field Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/merrimack-county/muster-field-farm-north-sutton-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.212756,
+                    42.974181,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New Hampshire CSA, LLC",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.991028,
+                    43.46330700000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New Hampshire Farm Museum",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.142754,
+                    43.647984,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Olde Ways at Mustard Seed Farm      ",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Wolfeboro, NH 03894"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.405342,
+                    42.919925,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oliver Merrill & Sons",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "<img src=\"https://lh5.googleusercontent.com/proxy/ViUOhzuLP6q6aql9KONsUnYmTtK-iMCtJAETzSK_6p5WQjtkcmQoyfdkqt7hIL2VQQhhS6ZjV9TgLGcMAzMoTPiARognv43xHplDtJHHey_jJ5gWoF3oDjA\" height=\"200\" width=\"auto\" /><br><br>http://www.newhampshirefarms.net/featured-story/oliver-merrill-sons-farm-and-farmstand.html",
+                "gx_media_links": "https://lh5.googleusercontent.com/proxy/ViUOhzuLP6q6aql9KONsUnYmTtK-iMCtJAETzSK_6p5WQjtkcmQoyfdkqt7hIL2VQQhhS6ZjV9TgLGcMAzMoTPiARognv43xHplDtJHHey_jJ5gWoF3oDjA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.503723,
+                    44.434837,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Otokahe Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Jefferson, NHhttp://www.otokahefarm.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.10550619999998,
+                    43.9782118,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Peaked Moon Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/grafton-county/peaked-moon-farm-piermont-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.0195852,
+                    44.30455300000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pete & Gerry's Organic Eggs",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/grafton-county/pete-and-gerrys-organic-eggs-monroe-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.01549210000002,
+                    43.1131372,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pinewoods Yankee Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/strafford-county/pinewood-yankee-farms-lee-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.295067,
+                    43.625421,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Poverty Lane Orchards",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.88964759999999,
+                    44.2539822,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Prospect Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/grafton-county/prospect-farm-lisbon-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.8159015,
+                    43.4224577,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ragged View Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/merrimack-county/ragged-view-farm-andover-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.400646,
+                    43.336104,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Red Manse Farm",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.26613499999996,
+                    43.001147,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ridge View Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/cheshire-county/ridge-view-farm-gilsum-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.04189389999999,
+                    43.0523147,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rileys Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/rockingham-county/rileys-farm-epping-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.038849,
+                    43.076684,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Riverslea Farm, 362 N River Rd",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Epping, NH 03042"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.351452,
+                    43.5855,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Riverview Farm",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.110438,
+                    43.97685,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Robie Farm",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.73329799999999,
+                    44.28131,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Rocks Estate",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/coos-county/the-rocks-estate-bethlehem-new-hampshire.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.403005,
+                    43.86054600000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sandwich Creamery",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.78028899999998,
+                    44.251672,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ski Hearth Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/coos-county/ski-hearth-farm-sugar-hill-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.560278,
+                    43.568611,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Snow Dragon Mountain",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Meredith, NH 03253"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.560872,
+                    43.3148,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Someday Farm Alpacas",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.57637679999999,
+                    43.4966742,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Spring Hill Farm\n",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/belknap-county/spring-hill-farm-sanbornton-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.991555,
+                    43.420318,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Spring Ledge Farm Stand",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.343342,
+                    42.930647,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stonewall Farm",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.102338,
+                    43.882993,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sunday Mountain Maple Farm",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.76501300000001,
+                    44.244215,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tarrnation Flower Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/coos-county/tarrnation-flower-farm-sugar-hill-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.247627,
+                    43.620688,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tomapo Farm Storrs Hill",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.137657,
+                    42.784072,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tracie's Community Farm, LLC",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.971408,
+                    43.157202,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tuckaway Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "<img src=\"https://lh4.googleusercontent.com/proxy/5p1ph9Ptm9SRGsDnDrgniWEpVZf6QhBVC5IeUPZcLi5_QRf1XZyO3wKhlyS7gft8i_2z05R94eFoX5P0OU_CSlssgQlDDcZGRi7pS8_BbXH5mlxudr1THfxlHLM4B7ixTe8ISWwMUXXjPw\" height=\"200\" width=\"auto\" /><br><br>Lee, NH 03861",
+                "gx_media_links": "https://lh4.googleusercontent.com/proxy/5p1ph9Ptm9SRGsDnDrgniWEpVZf6QhBVC5IeUPZcLi5_QRf1XZyO3wKhlyS7gft8i_2z05R94eFoX5P0OU_CSlssgQlDDcZGRi7pS8_BbXH5mlxudr1THfxlHLM4B7ixTe8ISWwMUXXjPw"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.287602,
+                    43.184253,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Van Berkum Wholesale Nursery",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.34275769999999,
+                    42.907789,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Victory Aquaponics LLC",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/rockingham-county/victory-aquaponics-londonderry-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.340851,
+                    43.853511,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "White Gates Farm",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.71963849999997,
+                    43.22021729999999,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Windhover Farm",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/merrimack-county/the-visionaries-of-windhover-farm.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.96911699999998,
+                    44.082113,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Windy Ridge Orchard",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/grafton-county/windy-ridge-orchard-north-haverhill-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.6224315,
+                    44.7464829,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wintergreens Farm and Aquaponics",
+                "styleUrl": "#icon-22",
+                "styleHash": "-d7a38dc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "http://newhampshirefarms.net/farm-profiles/coos-county/wintergreens-farm-and-aquaponics-north-stratford-nh.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.632822,
+                    43.201875,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Work Song Farm",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.769174,
+                    43.259967,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Yankee Farmer's Market",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.66572180000003,
+                    43.4253416,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Beaver Creek Farm & Feed Barn",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "1b227743",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,953 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<name>The 1780 Farm</name>
+			<description><![CDATA[Farm Profile on New Hampshire Farms Network (http://www.newhampshirefarms.net/farm-profiles/cheshire-county/1780-farm-chesterfield-nh.html)<br>Chesterfield, NH]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-72.4658,42.880187,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Apple Haven Farm</name>
+			<description><![CDATA[839 Piper Hill Rd<br>Stewartstown, NH 03576]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.491501,44.951173,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Apple Hill Farm</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.55488,43.296317,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Autumn Harvest Farm</name>
+			<description><![CDATA[Johnson Ln, Grafton, NH 03240]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-72.04309600000002,43.550057,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Back 40 Acre Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/rockingham-county/back-40-acre-farm-chester-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.2365102,42.97006289999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bailey Farm</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/uNX5aCmAhF4JCotlFEUUSI49uQf_Xq4FCWCq6Q0INVG5scPl3XKAW7DYV8TXN4ZCCLbEk76IPbHZPcZWNobYrXSanAi2O_JD-qW6cP4WioGLeLzOeicb2mM-xpzBN7Lu44MVpK6HBn3Lxg" height="200" width="auto" /><br><br>Lyme, NH 03768]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/uNX5aCmAhF4JCotlFEUUSI49uQf_Xq4FCWCq6Q0INVG5scPl3XKAW7DYV8TXN4ZCCLbEk76IPbHZPcZWNobYrXSanAi2O_JD-qW6cP4WioGLeLzOeicb2mM-xpzBN7Lu44MVpK6HBn3Lxg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.160706,43.809519,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Barker's Farm Fresh Vegetables</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-women/barkers-farm-stratham-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-70.90457570000001,43.0352645,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Barrett Hill Farm LLC</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.786031,42.715622,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bartlett's Blueberry Farm</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-72.135603,43.355112,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bartlett Farm Dairy</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/merrimack-county/bartlett-farm-dairy-concord-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.470595,43.252496,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Beans &amp; Greens</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.395694,43.571989,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bear Knoll Farm</name>
+			<description><![CDATA[Canaan, NH 03741]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-72.120197,43.669878000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Beaver Pond Farm</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-72.264562,43.367754,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Benedikt Dairy</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.563064,42.985077,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Beech Hill Farm Stand &amp; Ice Cream Barn</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/merrimack-county/beech-hill-farm-ice-cream-barn-contoocook-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.63403700000003,43.201828,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Beryl Mountain View Farm</name>
+			<description><![CDATA[South Acworth, NH 03607]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-72.302506,43.182888,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Blue Ox Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/grafton-county/blue-ox-farm-enfield-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-72.1134424,43.5985669,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bly Farm</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.182038,43.609453,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bo-Riggs Cattle Company</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/ClyZd8XENdiC2QyZb01idXca5LOibZQYnMjBTIzHH4HMGWsu5CxLNYK7UhNOrcZ-iQN25t-KCYQahLHS24fNLTJhqyNP8e0SzWG4l1iEd7PEH5rM9YvUxOPFqCbNxmkiUILIrnmJB6wbig" height="200" width="auto" /><br><br>Westmoreland, NH 03467]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/ClyZd8XENdiC2QyZb01idXca5LOibZQYnMjBTIzHH4HMGWsu5CxLNYK7UhNOrcZ-iQN25t-KCYQahLHS24fNLTJhqyNP8e0SzWG4l1iEd7PEH5rM9YvUxOPFqCbNxmkiUILIrnmJB6wbig</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.460362,42.979862,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Brookdale Fruit Farm Stand</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.581247,42.742981,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Brookfield Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-women/brookfield-farm-walpole-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-72.41142909999996,43.1125501,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Brookford Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/merrimack-county/brookford-farm-canterbury-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.60874460000002,43.3250003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bunten Farmhouse Kitchen</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-72.107214,43.945665,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Butternut Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/strafford-county/butternut-farm-farmington-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.068668,43.323054,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Candia Vineyards</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.349389,43.071106,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Canterbury Aleworks</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/merrimack-county/canterbury-aleworks-canterbury-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.514568,43.386004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Contoocook Creamery at Bohanan Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/merrimack-county/contoocook-creamery-at-bohanan-farm-contoocook-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.69231409999998,43.23682429999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Country Critters Farm
+</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/cheshire-county/country-critters-farm-winchester-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-72.36591299999998,42.7834953,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Crazy H Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-women/jenni-haynes-crazy-h-farm-claremont-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-72.29164739999999,43.3768397,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cutting Farm</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/Z93N7mScd1LH8vNzr4k0PePp6sLf_pRnwJnf5zdJB7Y_MjEn-JmuPBzmBFhse1BAjcyOO5kZf_ctVwGsWkhef-7zmC3WtwEkiA5sd1l5IdycCiPg9ww-Zq2DvH3CXhoHNyUX4-KP86we7w" height="200" width="auto" /><br><br>Springfield, NH 03284]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/Z93N7mScd1LH8vNzr4k0PePp6sLf_pRnwJnf5zdJB7Y_MjEn-JmuPBzmBFhse1BAjcyOO5kZf_ctVwGsWkhef-7zmC3WtwEkiA5sd1l5IdycCiPg9ww-Zq2DvH3CXhoHNyUX4-KP86we7w</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.085714,43.48977800000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>D Acres of New Hampshire</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.933584,43.794206,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Darius Frink Farm</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/MvFlfJO1dPWqYzzK97foU19ZYPwnmjZlYiujr-yn9nhFs-dEbLTYo7eDqkK9REoB-b6LnCgr4ciHggcAJ2vhaQyedhFBI59sBKbN05suP3MSyZdRS1gcogNSSwY7eUSX7fv97G8-q57rrg" height="200" width="auto" /><br><br>Newington, NH 03801]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/MvFlfJO1dPWqYzzK97foU19ZYPwnmjZlYiujr-yn9nhFs-dEbLTYo7eDqkK9REoB-b6LnCgr4ciHggcAJ2vhaQyedhFBI59sBKbN05suP3MSyZdRS1gcogNSSwY7eUSX7fv97G8-q57rrg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-70.832863,43.099828,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Devriendt Farm Products</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/hillsborough-county/devriendt-farm-goffstown-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.5768314,43.01376879999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dimond Hill Farm</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.616348,43.190622,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Edgewater Farm LLC</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-72.342735,43.590109,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Emery Farm</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.889009,43.134757,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Evandale Farm, 424 Tilton Hill Rd</name>
+			<description><![CDATA[Pittsfield, NH 03263]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.280636,43.304108,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Falling Tree Farm</name>
+			<description><![CDATA[98 Croydon Turnpike, Meriden, NH 03781: http://newhampshirefarms.net/farm-profiles/sullivan-county/falling-tree-farm-meriden-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-72.25285819999999,43.5437467,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Field to Fork Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/rockingham-county/field-to-fork-chester-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.2351165,42.9274614,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Glove Hollow Tree Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/grafton-county/glove-hollow-christmas-tree-farm-plymouth-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.67573800000002,43.727664,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gould Hill Farm</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.689592,43.221053,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grant Family Pond View Farm &amp; Maple Sugar House</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/yNEyGxnscielbqVUhS8Fa_BmUImTeOSf-n5GOUkguzSJHUMbafiNNPfkHdWCqlvHfclCM9EviJu64CH4oH_6rjdgXL_sMTYElxSg3GuUqtUFFdm9GFFU8wQmvNN3_Tc5EH2VVlkGnmZg4w" height="200" width="auto" /><br><br>Weare, NH 03281]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/yNEyGxnscielbqVUhS8Fa_BmUImTeOSf-n5GOUkguzSJHUMbafiNNPfkHdWCqlvHfclCM9EviJu64CH4oH_6rjdgXL_sMTYElxSg3GuUqtUFFdm9GFFU8wQmvNN3_Tc5EH2VVlkGnmZg4w</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.73854,43.058818,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Greenhill Collective Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/greenhill-collective-farm-sutton-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.88779260000001,43.306453,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Harding Hill Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/sullivan-county/harding-hill-farm-sunapee-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-72.1112238,43.3533596,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Haynes Homestead</name>
+			<description><![CDATA[Colebrook, NH 03576]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.362017,44.906239,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hazzard Acres</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/MqSLogXf5h5rCQD_SsGKh9jz8ykxNbLW6BK98bgy4jgAqB1b9i3kUwqjO09IDWHJBqEgXkezvEKTnyHvL4BffL-5waPHYzs9JBIL_ENFLtd80rLkEvFbKTgSEtoMWzPepsyivaEfgummhA" height="200" width="auto" /><br><br>Springfield, NH 03284]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/MqSLogXf5h5rCQD_SsGKh9jz8ykxNbLW6BK98bgy4jgAqB1b9i3kUwqjO09IDWHJBqEgXkezvEKTnyHvL4BffL-5waPHYzs9JBIL_ENFLtd80rLkEvFbKTgSEtoMWzPepsyivaEfgummhA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.044092,43.508044,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hidden Acres Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/rockingham-county/hidden-acres-farm-newton-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.05405789999998,42.863936,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hillside Springs Farm</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/SEIUBO2CKG_4u_KVapCS2y1tZubfrN9lsv5AhLKG3_s94222T4sFly8pJizZT4qqukdO1lxIXj9Kb68bMDOJD6hpUInL3RuI25T0d-gkBMBq2h_cNubDG3wwuxWJ9GXGTI1FC2xv078HIg" height="200" width="auto" /><br><br>Westmoreland, NH 03467]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/SEIUBO2CKG_4u_KVapCS2y1tZubfrN9lsv5AhLKG3_s94222T4sFly8pJizZT4qqukdO1lxIXj9Kb68bMDOJD6hpUInL3RuI25T0d-gkBMBq2h_cNubDG3wwuxWJ9GXGTI1FC2xv078HIg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.427867,42.965001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Homestead Farms</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/layUU7M_GYpQX92tciu5tCYo_XQsJVQVx_prAt3uEkgOksNZc5NkOgqFv2HtQqlTA18JsEghEHEIz9F8Qb1BoNdLjUk6jPKTBGtVdrvoc51Lu6O1TGrht3Z-AUU9gzM" height="200" width="auto" /><br><br>http://www.newhampshirefarms.net/farm-profiles/cheshire-county/pete%E2%80%99s-farm-stand.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/layUU7M_GYpQX92tciu5tCYo_XQsJVQVx_prAt3uEkgOksNZc5NkOgqFv2HtQqlTA18JsEghEHEIz9F8Qb1BoNdLjUk6jPKTBGtVdrvoc51Lu6O1TGrht3Z-AUU9gzM</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.433488,43.074265,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Huntoon Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/merrimack-county/huntoon-farm-danbury-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.860837,43.5146026,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kearsarge Gore Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/kearsage-gore-farm-warner-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.87139780000003,43.3431937,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Inheritance Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/merrimack-county/inheritance-farm-chichester-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.36208999999997,43.2918556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Krebs Farm
+</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/belknap-county/krebs-farm-sanbornton-n-h.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.53565170000002,43.5367894,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lancaster Floral Design and Garden Center</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/coos-county/lancaster-floral-design-garden-center-lancaster-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.57383670000002,44.5004644,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Landaff Creamery Lld</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.896199,44.171643,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LaValley Farms</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/merrimack-county/lavalley-farms-hooksett-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.45139699999999,43.100731,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ledge Top Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/hillsborough-county/ledge-top-farm-wilton-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.734918,42.871168,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lewis Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/merrimack-county/lewis-farm-concord-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.56596389999999,43.165486,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Longhaul Farm</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.578695,43.742933,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lull Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/hillsborough-county/lull-farm-hollis-milford-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.5779152,42.74372959999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Many Summers Farm
+</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/sullivan-county/many-summers-farm-cornish-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-72.31582019999996,43.4864358,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>McClary Hill Farm</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.296035,43.208974,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>McLeod Orchards</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.71366200000001,42.843232,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Meadowstone Farm</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.748126,44.29742600000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Miles Smith Farm</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.48424,43.340159,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Minglewood Farm</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.493808,43.567938,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mountain Farm</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.87273,43.292076,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Muster Field Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/merrimack-county/muster-field-farm-north-sutton-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.95515200000001,43.373155,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>New Hampshire CSA, LLC</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.212756,42.974181,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>New Hampshire Farm Museum</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.991028,43.46330700000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Olde Ways at Mustard Seed Farm      </name>
+			<description><![CDATA[Wolfeboro, NH 03894]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.142754,43.647984,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Oliver Merrill &amp; Sons</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/ViUOhzuLP6q6aql9KONsUnYmTtK-iMCtJAETzSK_6p5WQjtkcmQoyfdkqt7hIL2VQQhhS6ZjV9TgLGcMAzMoTPiARognv43xHplDtJHHey_jJ5gWoF3oDjA" height="200" width="auto" /><br><br>http://www.newhampshirefarms.net/featured-story/oliver-merrill-sons-farm-and-farmstand.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/ViUOhzuLP6q6aql9KONsUnYmTtK-iMCtJAETzSK_6p5WQjtkcmQoyfdkqt7hIL2VQQhhS6ZjV9TgLGcMAzMoTPiARognv43xHplDtJHHey_jJ5gWoF3oDjA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.405342,42.919925,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Otokahe Farm</name>
+			<description><![CDATA[Jefferson, NHhttp://www.otokahefarm.com/]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.503723,44.434837,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Peaked Moon Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/grafton-county/peaked-moon-farm-piermont-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-72.10550619999998,43.9782118,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pete &amp; Gerry's Organic Eggs</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/grafton-county/pete-and-gerrys-organic-eggs-monroe-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-72.0195852,44.30455300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pinewoods Yankee Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/strafford-county/pinewood-yankee-farms-lee-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.01549210000002,43.1131372,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Poverty Lane Orchards</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-72.295067,43.625421,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Prospect Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/grafton-county/prospect-farm-lisbon-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.88964759999999,44.2539822,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ragged View Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/merrimack-county/ragged-view-farm-andover-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.8159015,43.4224577,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Red Manse Farm</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.400646,43.336104,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ridge View Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/cheshire-county/ridge-view-farm-gilsum-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-72.26613499999996,43.001147,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rileys Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/rockingham-county/rileys-farm-epping-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.04189389999999,43.0523147,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Riverslea Farm, 362 N River Rd</name>
+			<description><![CDATA[Epping, NH 03042]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.038849,43.076684,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Riverview Farm</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-72.351452,43.5855,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Robie Farm</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-72.110438,43.97685,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Rocks Estate</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/coos-county/the-rocks-estate-bethlehem-new-hampshire.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.73329799999999,44.28131,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sandwich Creamery</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.403005,43.86054600000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ski Hearth Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/coos-county/ski-hearth-farm-sugar-hill-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.78028899999998,44.251672,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Snow Dragon Mountain</name>
+			<description><![CDATA[Meredith, NH 03253]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.560278,43.568611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Someday Farm Alpacas</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.560872,43.3148,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Spring Hill Farm
+</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/belknap-county/spring-hill-farm-sanbornton-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.57637679999999,43.4966742,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Spring Ledge Farm Stand</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.991555,43.420318,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stonewall Farm</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-72.343342,42.930647,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sunday Mountain Maple Farm</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-72.102338,43.882993,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tarrnation Flower Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/coos-county/tarrnation-flower-farm-sugar-hill-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.76501300000001,44.244215,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tomapo Farm Storrs Hill</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-72.247627,43.620688,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tracie's Community Farm, LLC</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-72.137657,42.784072,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tuckaway Farm</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/5p1ph9Ptm9SRGsDnDrgniWEpVZf6QhBVC5IeUPZcLi5_QRf1XZyO3wKhlyS7gft8i_2z05R94eFoX5P0OU_CSlssgQlDDcZGRi7pS8_BbXH5mlxudr1THfxlHLM4B7ixTe8ISWwMUXXjPw" height="200" width="auto" /><br><br>Lee, NH 03861]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/5p1ph9Ptm9SRGsDnDrgniWEpVZf6QhBVC5IeUPZcLi5_QRf1XZyO3wKhlyS7gft8i_2z05R94eFoX5P0OU_CSlssgQlDDcZGRi7pS8_BbXH5mlxudr1THfxlHLM4B7ixTe8ISWwMUXXjPw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-70.971408,43.157202,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Van Berkum Wholesale Nursery</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.287602,43.184253,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Victory Aquaponics LLC</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/rockingham-county/victory-aquaponics-londonderry-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.34275769999999,42.907789,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>White Gates Farm</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.340851,43.853511,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Windhover Farm</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/merrimack-county/the-visionaries-of-windhover-farm.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.71963849999997,43.22021729999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Windy Ridge Orchard</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/grafton-county/windy-ridge-orchard-north-haverhill-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.96911699999998,44.082113,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wintergreens Farm and Aquaponics</name>
+			<description><![CDATA[http://newhampshirefarms.net/farm-profiles/coos-county/wintergreens-farm-and-aquaponics-north-stratford-nh.html]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-71.6224315,44.7464829,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Work Song Farm</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.632822,43.201875,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Yankee Farmer's Market</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.769174,43.259967,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Beaver Creek Farm &amp; Feed Barn</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.66572180000003,43.4253416,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-22-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-22-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-22'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-22-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-22-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-22-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-22-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-22-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-22-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-22-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
