@@ -19,7 +19,8 @@ var featureLayer = L.mapbox.featureLayer();
 
 featureLayer.on('ready', function(){
   this.eachLayer(function(layer){
-     layer.bindPopup('Welcome to ' + layer.feature.properties.name);
+    console.log(layer);
+    layer.bindPopup('Welcome to ' + layer.feature.properties.name);
   });
   map.fitBounds(featureLayer.getBounds());
 });
