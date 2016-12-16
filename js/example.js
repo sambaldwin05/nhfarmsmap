@@ -23,8 +23,8 @@ featureLayer.on('ready', function(){
     console.log(layer);
     layer.setIcon(L.mapbox.marker.icon({
       "marker-color": "#8834bb",
-      "marker-size": "large",
-      "marker-symbol": "restaurant"
+      "marker-size": "small",
+      "marker-symbol": "farm"
     }))
     layer.bindPopup('Welcome to ' + layer.feature.properties.name);
   });
