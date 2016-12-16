@@ -10,5 +10,6 @@ p {
 #map {
   height: 700px;
   width: 500px;
+  z-index: -99;
   margin: auto;
 }
