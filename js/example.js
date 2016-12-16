@@ -12,18 +12,14 @@ map.setView([44, -71.6], 8);
 // Great, now we have a basic web map!
 var dataFileToAdd = 'data/nh_farms.geojson';
 
-// Buildinate our feature.
+// Buildinate our feature layer.
 var featureLayer = L.mapbox.featureLayer();
     featureLayer.loadURL(dataFileToAdd);
     featureLayer.addTo(map);
 
-// featureLayer.on('ready', function(){
-//     this.eachLayer(function(layer){
-//         layer.setIcon(L.mapbox.marker.icon({
-//             "marker-color": "#8834bb",
-//             "marker-size": "small",
-//             "marker-symbol": "restaurant"
-//         }))
-//     });
-//     map.fitBounds(featureLayer.getBounds());
-// });
+featureLayer.on('ready', function(){
+  this.eachLayer(function(layer){
+     layer.bindPopup('Welcome to ' + layer.feature.properties.name);
+  });
+  map.fitBounds(featureLayer.getBounds());
+});
