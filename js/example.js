@@ -17,9 +17,15 @@ var featureLayer = L.mapbox.featureLayer();
     featureLayer.loadURL(dataFileToAdd);
     featureLayer.addTo(map);
 
+
 featureLayer.on('ready', function(){
-  // this.eachLayer(function(layer){
-  //   console.log(layer);
-  //   layer.bindPopup('Welcome to ' + layer.feature.properties.name);
-  // });
-});
+  this.eachLayer(function(layer){
+    console.log(layer);
+    // layer.setIcon(L.mapbox.marker.icon({
+    //   "marker-color": "#8834bb",
+    //   "marker-size": "large",
+    //   "marker-symbol": "restaurant"
+    // }))
+    // layer.bindPopup('Welcome to ' + layer.feature.properties.name);
+  });
+});  
