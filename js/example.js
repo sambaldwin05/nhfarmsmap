@@ -20,12 +20,12 @@ var featureLayer = L.mapbox.featureLayer();
 
 featureLayer.on('ready', function(){
   this.eachLayer(function(layer){
-    console.log(layer);
+    // console.log(layer);
     layer.setIcon(L.mapbox.marker.icon({
       "marker-color": "#8834bb",
       "marker-size": "small",
       "marker-symbol": "farm"
-    }))
-    layer.bindPopup('Welcome to ' + layer.feature.properties.name);
+    }));
+    // layer.bindPopup('Welcome to ' + layer.feature.properties.name);
   });
 });  
