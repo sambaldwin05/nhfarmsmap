@@ -572,6 +572,7 @@
             },
             "properties": {
                 "name": "Country Critters Farm\n",
+                "season": "Maple",
                 "styleUrl": "#icon-22",
                 "styleHash": "-d7a38dc",
                 "styleMapHash": {
@@ -593,6 +594,7 @@
             },
             "properties": {
                 "name": "Crazy H Farm",
+                "season": "Maple",
                 "styleUrl": "#icon-22",
                 "styleHash": "-d7a38dc",
                 "styleMapHash": {
@@ -614,6 +616,7 @@
             },
             "properties": {
                 "name": "Cutting Farm",
+                "season": "Maple",
                 "styleUrl": "#icon-22",
                 "styleHash": "-d7a38dc",
                 "styleMapHash": {
@@ -636,6 +639,7 @@
             },
             "properties": {
                 "name": "D Acres of New Hampshire",
+                "season": "Maple",
                 "styleUrl": "#icon-22-nodesc",
                 "styleHash": "1b227743",
                 "styleMapHash": {

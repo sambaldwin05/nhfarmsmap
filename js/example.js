@@ -17,7 +17,6 @@ var featureLayer = L.mapbox.featureLayer();
     featureLayer.loadURL(dataFileToAdd);
     featureLayer.addTo(map);
 
-
 featureLayer.on('ready', function(){
   this.eachLayer(function(layer){
     // console.log(layer);
@@ -26,6 +25,8 @@ featureLayer.on('ready', function(){
       "marker-size": "small",
       "marker-symbol": "farm"
     }));
-    // layer.bindPopup('Welcome to ' + layer.feature.properties.name);
+    if (!layer.feature.properties.season) {
+      layer.hide();
+    }
   });
-});  
+});
