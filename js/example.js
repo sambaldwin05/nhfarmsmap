@@ -26,7 +26,11 @@ featureLayer.on('ready', function(){
       "marker-symbol": "farm"
     }));
     if (!layer.feature.properties.season) {
-      layer.hide();
+      layer.setIcon(L.mapbox.marker.icon({
+        "marker-color": "#fff600",
+        "marker-size": "small",
+        "marker-symbol": "farm"
+      }));
     }
   });
 });
