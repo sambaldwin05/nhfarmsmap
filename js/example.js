@@ -35,8 +35,54 @@ featureLayer.on('ready', function(){
   });
 });
 
+var clickHandler = function(e){
+  // Init our state.
+  $('#info').empty();
+  var feature = e.target.feature;
+  
+  $('#sidebar').fadeIn(400, function(){
+    var info = '';
+    info += '<div>';
+    info += '<h2>' + feature.properties.name + '</h2>';
+    // Display some properties if we have them.
+    if(feature.properties.season) info += '<p>' + feature.properties.season + '</p>';
+    if(feature.properties.description) info += '<p>' + feature.properties.description + '</p>';
+    if(feature.properties.gx_media_links) info += '<p>' + feature.properties.gx_media_links + '</p>';
+    
+    info += '</div>';
+    $('#info').append(info);
+  })
+  
+  // Show directions from current location.
+  var myGeoJSON = myLocation.getGeoJSON();
+  getDirections(myGeoJSON.geometry.coordinates, feature.geometry.coordinates);
+};
+
 featureLayer.on('ready', function(){
- this.eachLayer(function(layer){
-     layer.bindPopup('Welcome to ' + layer.feature.properties.name);
-   });
-});
+    this.eachLayer(function(layer){
+        layer.on('click', clickHandler);
+    })
+})
+map.on('click', function(){
+    $('#sidebar').fadeOut(200);
+})
+
+// Do location things.
+var myLocation = L.mapbox.featureLayer().addTo(map);
+
+map.on('locationfound', function(e){
+    myLocation.setGeoJSON({
+        type: 'Feature',
+        geometry: {
+            type: 'Point',
+            coordinates: [ e.latlng.lng, e.latlng.lat ]
+        },
+        properties: {
+            "title": "Here I am!",
+            "marker-color": "#ff8888",
+            "marker-symbol": "star"
+        }
+    })
+})
+
+// map.locate({setView: true});
