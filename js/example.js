@@ -33,7 +33,7 @@ featureLayer.on('ready', function(){
       }));
     }
     else {
-      layer.target._icon.style.display = 'none';
+      layer.options.opacity = 0;
     }
   });
 });
