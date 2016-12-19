@@ -32,8 +32,12 @@ featureLayer.on('ready', function(){
         "marker-symbol": "farm"
       }));
     }
-    else {
-      layer.options.opacity = 0;
+    else if (layer.feature.properties.season === 'Maple') {
+      layer.setIcon(L.mapbox.marker.icon({
+        "marker-color": "#f40404",
+        "marker-size": "small",
+        "marker-symbol": "farm"
+      }));
     }
   });
 });
