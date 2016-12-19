@@ -52,10 +52,6 @@ var clickHandler = function(e){
     info += '</div>';
     $('#info').append(info);
   })
-  
-  // Show directions from current location.
-  var myGeoJSON = myLocation.getGeoJSON();
-  getDirections(myGeoJSON.geometry.coordinates, feature.geometry.coordinates);
 };
 
 featureLayer.on('ready', function(){
@@ -85,4 +81,5 @@ map.on('locationfound', function(e){
     })
 })
 
+map.locatte();
 // map.locate({setView: true});
