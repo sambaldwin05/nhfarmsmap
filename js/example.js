@@ -19,13 +19,13 @@ var featureLayer = L.mapbox.featureLayer();
 
 featureLayer.on('ready', function(){
   this.eachLayer(function(layer){
-    // console.log(layer);
+    console.log(layer);
     layer.setIcon(L.mapbox.marker.icon({
       "marker-color": "#8834bb",
       "marker-size": "small",
       "marker-symbol": "farm"
     }));
-    if (!layer.feature.properties.season) {
+    if (layer.feature.properties.season === 'Maple') {
       layer.setIcon(L.mapbox.marker.icon({
         "marker-color": "#fff600",
         "marker-size": "small",
