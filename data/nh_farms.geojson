@@ -660,6 +660,7 @@
             },
             "properties": {
                 "name": "Darius Frink Farm",
+                "season": "Spring",
                 "styleUrl": "#icon-22",
                 "styleHash": "-d7a38dc",
                 "styleMapHash": {
@@ -703,6 +704,7 @@
             },
             "properties": {
                 "name": "Dimond Hill Farm",
+                "season": "Spring",
                 "styleUrl": "#icon-22-nodesc",
                 "styleHash": "1b227743",
                 "styleMapHash": {
@@ -784,6 +786,7 @@
             },
             "properties": {
                 "name": "Falling Tree Farm",
+                "season": "Spring",
                 "styleUrl": "#icon-22",
                 "styleHash": "-d7a38dc",
                 "styleMapHash": {
@@ -805,6 +808,7 @@
             },
             "properties": {
                 "name": "Field to Fork Farm",
+                "season": "Spring",
                 "styleUrl": "#icon-22",
                 "styleHash": "-d7a38dc",
                 "styleMapHash": {

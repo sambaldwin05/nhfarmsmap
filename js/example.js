@@ -25,7 +25,7 @@ featureLayer.on('ready', function(){
       "marker-size": "small",
       "marker-symbol": "farm"
     }));
-    if (layer.feature.properties.season === 'Maple') {
+    if (layer.feature.properties.season === 'Spring') {
       layer.setIcon(L.mapbox.marker.icon({
         "marker-color": "#fff600",
         "marker-size": "small",
@@ -33,4 +33,10 @@ featureLayer.on('ready', function(){
       }));
     }
   });
+});
+
+featureLayer.on('ready', function(){
+ this.eachLayer(function(layer){
+     layer.bindPopup('Welcome to ' + layer.feature.properties.name);
+   });
 });
