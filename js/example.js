@@ -29,7 +29,7 @@ featureLayer.on('ready', function(){
 });
 
 featureLayer.setFilter(function(feature){
-  return (layer.feature.properties.season === 'Spring');
+  return (feature.properties.season === 'Spring');
 });
 
 var clickHandler = function(e){
