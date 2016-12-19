@@ -43,18 +43,16 @@ var clickHandler = function(e){
   $('#info').empty();
   var feature = e.target.feature;
   
-  $('#sidebar').fadeIn(400, function(){
-    var info = '';
-    info += '<div>';
-    info += '<h2>' + feature.properties.name + '</h2>';
-    // Display some properties if we have them.
-    if(feature.properties.season) info += '<p>' + feature.properties.season + '</p>';
-    if(feature.properties.description) info += '<p>' + feature.properties.description + '</p>';
-    // if(feature.properties.gx_media_links) info += '<p>' + feature.properties.gx_media_links + '</p>';
-    
-    info += '</div>';
-    $('#info').append(info);
-  })
+  var info = '';
+  info += '<div>';
+  info += '<h2>' + feature.properties.name + '</h2>';
+  // Display some properties if we have them.
+  if(feature.properties.season) info += '<p>' + feature.properties.season + '</p>';
+  if(feature.properties.description) info += '<p>' + feature.properties.description + '</p>';
+  // if(feature.properties.gx_media_links) info += '<p>' + feature.properties.gx_media_links + '</p>';
+  
+  info += '</div>';
+  $('#info').append(info);
 };
 
 featureLayer.on('ready', function(){
@@ -63,7 +61,7 @@ featureLayer.on('ready', function(){
     })
 })
 map.on('click', function(){
-    $('#sidebar').fadeOut(200);
+    $('#info').empty();
 })
 
 // Do location things.
