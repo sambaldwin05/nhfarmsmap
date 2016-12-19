@@ -32,6 +32,9 @@ featureLayer.on('ready', function(){
         "marker-symbol": "farm"
       }));
     }
+    else {
+      map.setLayoutProperty(layer, 'visibility', 'none');
+    }
   });
 });
 
@@ -47,7 +50,7 @@ var clickHandler = function(e){
     // Display some properties if we have them.
     if(feature.properties.season) info += '<p>' + feature.properties.season + '</p>';
     if(feature.properties.description) info += '<p>' + feature.properties.description + '</p>';
-    if(feature.properties.gx_media_links) info += '<p>' + feature.properties.gx_media_links + '</p>';
+    // if(feature.properties.gx_media_links) info += '<p>' + feature.properties.gx_media_links + '</p>';
     
     info += '</div>';
     $('#info').append(info);
@@ -74,12 +77,11 @@ map.on('locationfound', function(e){
             coordinates: [ e.latlng.lng, e.latlng.lat ]
         },
         properties: {
-            "title": "Here I am!",
+            "title": "Current Location",
             "marker-color": "#ff8888",
             "marker-symbol": "star"
         }
     })
 })
 
-map.locatte();
-// map.locate({setView: true});
+map.locate({setView: true});
