@@ -33,7 +33,7 @@ featureLayer.on('ready', function(){
       }));
     }
     else {
-      map.setLayoutProperty(layer, 'visibility', 'none');
+      layer.target._icon.style.display = 'none';
     }
   });
 });
@@ -84,4 +84,4 @@ map.on('locationfound', function(e){
     })
 })
 
-map.locate({setView: true});
+map.locate({setView: false});
