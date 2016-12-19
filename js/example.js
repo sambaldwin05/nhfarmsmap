@@ -25,21 +25,11 @@ featureLayer.on('ready', function(){
       "marker-size": "small",
       "marker-symbol": "farm"
     }));
-    if (layer.feature.properties.season === 'Spring') {
-      layer.setIcon(L.mapbox.marker.icon({
-        "marker-color": "#fff600",
-        "marker-size": "small",
-        "marker-symbol": "farm"
-      }));
-    }
-    else if (layer.feature.properties.season === 'Maple') {
-      layer.setIcon(L.mapbox.marker.icon({
-        "marker-color": "#f40404",
-        "marker-size": "small",
-        "marker-symbol": "farm"
-      }));
-    }
   });
+});
+
+featureLayer.setFilter(function(feature){
+  return (layer.feature.properties.season === 'Spring');
 });
 
 var clickHandler = function(e){
