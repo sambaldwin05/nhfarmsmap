@@ -32,6 +32,14 @@ featureLayer.setFilter(function(feature){
   return (feature.properties.season === 'Spring');
 });
 
+$( "#season-filter" ).change(function() {
+  alert( "Handler for .change() called." );
+});
+
+// var filterHandler = function(e){
+
+// };
+
 var clickHandler = function(e){
   // Init our state.
   $('#info').empty();
