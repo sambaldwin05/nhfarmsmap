@@ -17,16 +17,20 @@ var featureLayer = L.mapbox.featureLayer();
     featureLayer.loadURL(dataFileToAdd);
     featureLayer.addTo(map);
 
-featureLayer.on('ready', function(){
-  this.eachLayer(function(layer){
-    console.log(layer);
-    layer.setIcon(L.mapbox.marker.icon({
-      "marker-color": "#8834bb",
-      "marker-size": "small",
-      "marker-symbol": "farm"
-    }));
+var drawPoints = function(featureLayer) {
+  featureLayer.on('ready', function(){
+    this.eachLayer(function(layer){
+      console.log(layer);
+      layer.setIcon(L.mapbox.marker.icon({
+        "marker-color": "#8834bb",
+        "marker-size": "small",
+        "marker-symbol": "farm"
+      }));
+    });
   });
-});
+}
+
+drawPoints(featureLayer);
 
 // featureLayer.setFilter(function(feature){
 //   return (feature.properties.season === 'Spring');
@@ -57,6 +61,12 @@ var filterHandler = function(season){
       return (feature.properties.season === season);
     }
   });
+  layer.setIcon(L.mapbox.marker.icon({
+      "marker-color": "#8834bb",
+      "marker-size": "small",
+      "marker-symbol": "farm"
+    }));
+  drawPoints(featureLayer);
   featureLayer.addTo(map);
 };
 
