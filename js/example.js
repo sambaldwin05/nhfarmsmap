@@ -61,11 +61,6 @@ var filterHandler = function(season){
       return (feature.properties.season === season);
     }
   });
-  layer.setIcon(L.mapbox.marker.icon({
-      "marker-color": "#8834bb",
-      "marker-size": "small",
-      "marker-symbol": "farm"
-    }));
   drawPoints(featureLayer);
   featureLayer.addTo(map);
 };
