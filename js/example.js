@@ -35,7 +35,7 @@ featureLayer.on('ready', function(){
 $('#season-filter').change(function() {
   var season = '';
   $("select option:selected").each(function() {
-      season = $(this).value();
+      season = $(this).val();
   });
   filterHandler(season);
 });
