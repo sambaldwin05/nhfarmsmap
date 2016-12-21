@@ -62,7 +62,7 @@ var filterHandler = function(season){
     }
   });
   drawPoints(featureLayer);
-  featureLayer.addTo(map);
+  // featureLayer.addTo(map);
 };
 
 var clickHandler = function(e){
