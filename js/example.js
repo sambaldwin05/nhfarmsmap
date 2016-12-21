@@ -32,9 +32,6 @@ var drawPoints = function(featureLayer) {
 
 drawPoints(featureLayer);
 
-// featureLayer.setFilter(function(feature){
-//   return (feature.properties.season === 'Spring');
-// });
 
 $('#season-filter').change(function() {
   var season = '';
@@ -44,15 +41,9 @@ $('#season-filter').change(function() {
   filterHandler(season);
 });
 
-var clearMap = function(map){
-  map.eachLayer(function (layer) {
-    map.removeLayer(layer);
-  });
-}
+
 
 var filterHandler = function(season){
-  alert('filterHandler called with ' + season);
-  // clearMap(map);
   featureLayer.setFilter(function(feature){
     if (season === 'All'){
       return true;
@@ -62,7 +53,6 @@ var filterHandler = function(season){
     }
   });
   drawPoints(featureLayer);
-  // featureLayer.addTo(map);
 };
 
 var clickHandler = function(e){
