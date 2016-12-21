@@ -54,7 +54,7 @@ var filterHandler = function(season){
   alert('filterHandler called with ' + season);
   // clearMap(map);
   featureLayer.setFilter(function(feature){
-    if (season === 'all'){
+    if (season === 'All'){
       return true;
     }
     else {
