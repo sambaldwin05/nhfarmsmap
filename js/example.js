@@ -32,13 +32,21 @@ featureLayer.setFilter(function(feature){
   return (feature.properties.season === 'Spring');
 });
 
-$( "#season-filter" ).change(function() {
-  alert( "Handler for .change() called." );
+$('#season-filter').change(function() {
+  alert('Handler for .change() called.');
+  var season = '';
+  $("select option:selected").each(function() {
+      season += $(this).text() + " ";
+  });
+  filterHandler(season);
 });
 
-// var filterHandler = function(e){
-
-// };
+var filterHandler = function(season){
+  alert('filterHandler called with ' + season);
+  featureLayer.setFilter(function(feature){
+    return (feature.properties.season === season);
+  });
+};
 
 var clickHandler = function(e){
   // Init our state.
