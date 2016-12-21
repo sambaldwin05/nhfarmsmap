@@ -28,24 +28,36 @@ featureLayer.on('ready', function(){
   });
 });
 
-featureLayer.setFilter(function(feature){
-  return (feature.properties.season === 'Spring');
-});
+// featureLayer.setFilter(function(feature){
+//   return (feature.properties.season === 'Spring');
+// });
 
 $('#season-filter').change(function() {
-  alert('Handler for .change() called.');
   var season = '';
   $("select option:selected").each(function() {
-      season += $(this).text() + " ";
+      season = $(this).value();
   });
   filterHandler(season);
 });
 
+var clearMap = function(map){
+  map.eachLayer(function (layer) {
+    map.removeLayer(layer);
+  });
+}
+
 var filterHandler = function(season){
   alert('filterHandler called with ' + season);
+  clearMap(map);
   featureLayer.setFilter(function(feature){
-    return (feature.properties.season === season);
+    if (season === 'all'){
+      return true;
+    }
+    else {
+      return (feature.properties.season === season);
+    }
   });
+  featureLayer.addTo(map);
 };
 
 var clickHandler = function(e){
